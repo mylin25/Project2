@@ -1,0 +1,156 @@
+@charset "utf-8";
+
+
+body{
+	
+	margin:0;
+	padding:0;
+
+}
+
+img{
+	
+	position: absolute;
+}
+
+.BGForest{
+	left: 0px;
+	top:0px;
+	
+}
+
+.River{
+
+  left: 0px;
+  top: 1317px;
+ 
+}
+
+.RightTrees{
+	left:411px;
+	top: 0px;
+	transition: left 4s;
+	opacity:1;
+}
+
+.RightTrees:hover{
+	left: 200px;
+	
+}
+
+.Strangeanimal{
+	left: 916px;
+	top: 471px;
+}
+.FrontrockA{
+	left: 399px;
+	top:2088px;
+	
+}
+
+.Leftrocks{
+	left: 0px;
+	top: 1884px;
+	opacity:0.7;
+	transition:top 6s,opacity 3s;
+}
+
+.Leftrocks:hover{
+	top:1500px;
+	opacity:1;
+}
+
+.Fireflies{
+	left:0px;
+	top:1760px;
+}
+
+.Palerock{
+	left: 662px;
+	top: 1588px;
+}
+
+.NightFireflies{
+	left:0px;
+	top:739px;
+}
+
+.Quote1{
+	left:57px;
+	top:780px;
+	opacity:0; 
+	transition: 5s;
+}
+
+.Quote1:hover{
+	opacity:1;
+}
+
+.Quote2{
+	left:493px;
+	top:1290px;
+	opacity:0;
+	transition: 5s;
+}
+
+.Quote2:hover{
+	opacity:1;
+}
+
+.Lotusbud{
+	left:438px;
+	top: 75px;
+	opacity:0;
+	transition: 3s;
+}
+
+.Lotusbud:hover{
+	opacity:1;
+}
+.Lotussprout{
+	left:395px;
+	top:547px;
+	opacity:0;
+	transition: 3s;
+	
+}
+
+.Lotussprout:hover{
+	opacity:1;
+}
+
+.Lotussprout2{
+	left:362px;
+	top:1043px;
+	opacity:0;
+	transition: 3s;
+}
+
+.Lotussprout2:hover{
+	opacity:1;
+}
+.Lotusblossom{
+	left:153px;
+	top:1536px;
+	opacity:0;
+	transition: 3s;
+}
+
+.Lotusblossom:hover{
+	opacity:1;
+}
+
+.PrettyWoods{
+	left: 47px;
+	top:0px;
+}
+
+.Door{
+	left:557px;
+	top:273px;
+}
+
+.Audio{
+	position: absolute;
+	left: 400px;
+}
